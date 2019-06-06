@@ -12,5 +12,5 @@ View iOS runtime headers in a native Cocoa application. Based on [MacBird](https
 
 # Download
 
-![alt text](https://github.com/MTACS/OpenHeaders/releases "1.0")
+[1.0](https://github.com/MTACS/OpenHeaders/releases "1.0")
 
