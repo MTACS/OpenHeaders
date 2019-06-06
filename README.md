@@ -2,8 +2,6 @@
 
 View iOS runtime headers in a native Cocoa application. Based on [MacBird](https://github.com/EvenDeveloper/MacBird) by [EvenDev](https://twitter.com/even_dev)
 
-# Header sources
-
 ## Limneos
 
 ![alt text](https://github.com/MTACS/MTACS.github.io/blob/master/assets/img/limneos.png "Limneos")
@@ -14,4 +12,5 @@ View iOS runtime headers in a native Cocoa application. Based on [MacBird](https
 
 # Download
 
+![alt text](https://github.com/MTACS/OpenHeaders/releases "1.0")
 
